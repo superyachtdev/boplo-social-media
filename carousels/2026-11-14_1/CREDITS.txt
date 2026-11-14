@@ -1,0 +1,7 @@
+hook: Mehdi TAZI | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cessna_152_over_Atlas_Mountains_in_Morocco.jpg
+n1: Bin im Garten | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:NAV_Ger%C3%A4te_im_Cockpit_einer_C172_1212_VOR_Transponder_ADF.JPG
+n2: Senior Airman Kentavist P. Brackin | Public domain | https://commons.wikimedia.org/wiki/File:Signal_Light_Gun_Hulbert_Field.jpg
+n3: Staff Sgt. Bradley C. Church, U.S. Air Force | Public domain | https://commons.wikimedia.org/wiki/File:An_airman_aims_a_light_gun_as_he_works_in_the_control_tower_at_Ali_Base.jpg
+n4: Hp.Baumeler | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Transponder_in_Private_Aircraft.jpg
+n5: Matthew Piatt from Seattle, WA, USA | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Flight_training_cockpit-6.jpg
+cta: Bob Adams from Amanzimtoti, South Africa | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Flight_Training_College_Cessna_152_ZS-PAW_(26005455570).jpg

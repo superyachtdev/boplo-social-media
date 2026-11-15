@@ -1,0 +1,7 @@
+hook: MKFI | Public domain | https://commons.wikimedia.org/wiki/File:Patria_flight_training_OH-GSA_Malmi_1.JPG
+n1: Noah Wulf | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Diamond_DA40_Diamond_Star_N808ER_Leaving_VGT.jpg
+n2: Chris j wood | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lugano_Airport_October_2012_01.jpg
+n3: KeckRomero | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Airvalencia_Flight_School_Cessna_172.png
+n4: Jesse Collins | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Flying_Into_The_Sunset_(198923043).jpeg
+n5: Dunelmite1 at English Wikipedia | Public domain | https://commons.wikimedia.org/wiki/File:Cessna_172_at_Gloucestershire_Airport.JPG
+cta: The Bushranger | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cirrus_SR22_on_final_at_Apalachicola_Regional_Airport.jpg

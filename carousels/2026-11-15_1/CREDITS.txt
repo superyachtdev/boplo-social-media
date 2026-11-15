@@ -1,0 +1,7 @@
+hook: Olga Ernst | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gravity_refuelling_of_a_Cessna_206_on_a_farm_(Namibia).jpg
+n1: Civil Air Patrol | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:CAP_Cessna_172_in_flight_(20764307010).jpg
+n2: Alain Bourque | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Landing_At_Csu3_(183897507).jpeg
+n3: Jitze Couperus | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Robinson_R22_Helicopter_hovering.jpg
+n4: Giovanni Handal | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cessna_172_G1000.JPG
+n5: Murray Foubister | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Flight_from_Kelowna_to_Whitehorse_-_(14468906624).jpg
+cta: Matti Blume | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Refueling,_Mainz_(P1090648).jpg

@@ -1,0 +1,7 @@
+hook: File:A wing tip of an airplane (40118125441).jpg by U.S. Department of Agriculture (Public domain) https://commons.wikimedia.org/wiki/File:A_wing_tip_of_an_airplane_(40118125441).jpg
+n1: File:Lightning over Billings Airport April 2007.jpg by Cja 711 (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Lightning_over_Billings_Airport_April_2007.jpg
+n2: File:Lavatory in Sukhoi Superjet 100.jpg by SuperJet  International (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Lavatory_in_Sukhoi_Superjet_100.jpg
+n3: File:Airplane window capture.jpg by Marcelomenezes96 (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Airplane_window_capture.jpg
+n4: File:United 787 wing curvature (18732223816).jpg by Pablo Fernicola from United States (CC BY 2.0) https://commons.wikimedia.org/wiki/File:United_787_wing_curvature_(18732223816).jpg
+n5: File:Airport Fire Engine (6114407534).jpg by Tony Hisgett from Birmingham, UK (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Airport_Fire_Engine_(6114407534).jpg
+cta: File:Airliner wing and clouds over South Pacific.jpg by Daniel Case (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Airliner_wing_and_clouds_over_South_Pacific.jpg

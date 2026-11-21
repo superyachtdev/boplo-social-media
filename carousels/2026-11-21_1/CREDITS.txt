@@ -1,0 +1,7 @@
+hook: File:BACF departure London city Airport.JPG by Dave Barker (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:BACF_departure_London_city_Airport.JPG
+n1: File:KGNV Runway29.JPG by WillMcC (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:KGNV_Runway29.JPG
+n2: File:Aerial view of Chicago O'Hare airport from American flight 1717 June 2025.jpg by 4300streetcar (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Aerial_view_of_Chicago_O%27Hare_airport_from_American_flight_1717_June_2025.jpg
+n3: File:Old FDK aero beacon MD1.jpg by Acroterion (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Old_FDK_aero_beacon_MD1.jpg
+n4: File:M. R. Štefánik Airport approach 06̠cropped.jpg by flightlog (CC BY 2.0) https://commons.wikimedia.org/wiki/File:M._R._%C5%A0tef%C3%A1nik_Airport_approach_06%CC%A0cropped.jpg
+n5: File:2025-08-08 17 42 03 UTC United Airlines aircraft on the tarmac at Newark Liberty International Airport in Elizabeth, Union County, New Jersey.jpg by Famartin (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:2025-08-08_17_42_03_UTC_United_Airlines_aircraft_on_the_tarmac_at_Newark_Liberty_International_Airport_in_Elizabeth,_Union_County,_New_Jersey.jpg
+cta: File:Austrian Airlines Boeing 737-800; OE-LNS@ZRH;29.10.2012 677bl (8136778439).jpg by Aero Icarus from Zürich, Switzerland (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Austrian_Airlines_Boeing_737-800;_OE-LNS@ZRH;29.10.2012_677bl_(8136778439).jpg

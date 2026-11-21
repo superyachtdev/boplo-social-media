@@ -1,0 +1,7 @@
+hook: File:Flying into the sun (408191852).jpg by Angelo DeSantis from Berkeley, US (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Flying_into_the_sun_(408191852).jpg
+n1: File:Artificial horizon mg 8173.jpg by Rama (CC BY-SA 2.0 fr) https://commons.wikimedia.org/wiki/File:Artificial_horizon_mg_8173.jpg
+n2: File:Flying into London Heathrow on PK786. AP-BID Boeing 777 (13042182964).jpg by Aleem Yousaf (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Flying_into_London_Heathrow_on_PK786._AP-BID_Boeing_777_(13042182964).jpg
+n3: File:Final turn to RW22R at NCE.jpg by Olivier Cleynen (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Final_turn_to_RW22R_at_NCE.jpg
+n4: File:Air traffic controller Marines keep pilots in line DVIDS447875.jpg by Sgt. Zach Griffith (Public domain) https://commons.wikimedia.org/wiki/File:Air_traffic_controller_Marines_keep_pilots_in_line_DVIDS447875.jpg
+n5: File:T-37 cockpit.jpg by Seattleretro (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:T-37_cockpit.jpg
+cta: File:Cessna 208B PK-SNK BNPB 030326 (1).jpg by Jauhsekali (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Cessna_208B_PK-SNK_BNPB_030326_(1).jpg

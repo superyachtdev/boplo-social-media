@@ -1,0 +1,7 @@
+hook: File:Storm Front (2583571873).jpg by Shawn from Airdrie, Canada (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Storm_Front_(2583571873).jpg
+n1: File:Cockpit Cessna 172 PD 007.JPG by Bin im Garten (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Cockpit_Cessna_172_PD_007.JPG
+n2: File:Cessna 172 D-EDRN cockpit.jpg by Jacek Rużyczka (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Cessna_172_D-EDRN_cockpit.jpg
+n3: File:737NG Navigation Display with weather radar showing. (5734080397).jpg by Shawn from Airdrie, Canada (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:737NG_Navigation_Display_with_weather_radar_showing._(5734080397).jpg
+n4: File:Anvil of a Thunderstorm Cloud.jpg by Eulenjäger (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Anvil_of_a_Thunderstorm_Cloud.jpg
+n5: File:Defense.gov News Photo 000305-F-5772H-502.jpg by Tech. Sgt. Cary Humphries, U.S. Air Force (Public domain) https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_000305-F-5772H-502.jpg
+cta: File:Antonov An-225 Mriya, Antonov Design Bureau AN1920654.jpg by Oleg V. Belyakov, AirTeamImages (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Antonov_An-225_Mriya,_Antonov_Design_Bureau_AN1920654.jpg

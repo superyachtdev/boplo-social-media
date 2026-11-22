@@ -1,0 +1,7 @@
+hook: File:Cessna172InstructorAndStudent.png by Ahunt (Public domain) https://commons.wikimedia.org/wiki/File:Cessna172InstructorAndStudent.png
+n1: File:Private Pilot.jpg by Jonathan Thorne (Public domain) https://commons.wikimedia.org/wiki/File:Private_Pilot.jpg
+n2: File:Pilot logbook (cover).jpg by Basil Newburn (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Pilot_logbook_(cover).jpg
+n3: File:Short approach in Cascais RWY 35.png by Marco Alioli (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Short_approach_in_Cascais_RWY_35.png
+n4: File:Detroit SEC.tif by FAA (Public domain) https://commons.wikimedia.org/wiki/File:Detroit_SEC.tif
+n5: File:E6bcardboard.JPG by M9matr0902 (Public domain) https://commons.wikimedia.org/wiki/File:E6bcardboard.JPG
+cta: File:N1743S Textron 172S s n 172S12290 (54587049717).jpg by Tomás Del Coro from Fabulous Las Vegas, Nevada, USA (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:N1743S_Textron_172S_s_n_172S12290_(54587049717).jpg

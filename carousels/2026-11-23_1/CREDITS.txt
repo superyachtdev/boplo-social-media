@@ -1,0 +1,7 @@
+hook: File:Before take-off (Unsplash).jpg by Chris Brignola (CC0) https://commons.wikimedia.org/wiki/File:Before_take-off_(Unsplash).jpg
+n1: File:Commercial Airplane Wing (Starboard side).jpg by Tmeers91 (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Commercial_Airplane_Wing_(Starboard_side).jpg
+n2: File:Easyjet a319 overwing exit path arp.jpg by Adrian Pingstone (Public domain) https://commons.wikimedia.org/wiki/File:Easyjet_a319_overwing_exit_path_arp.jpg
+n3: File:E-135 (2896436215).jpg by Cory W. Watts (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:E-135_(2896436215).jpg
+n4: File:Worm's Eye View (53873239510).jpg by Pete from Liverpool, UK (CC0) https://commons.wikimedia.org/wiki/File:Worm%27s_Eye_View_(53873239510).jpg
+n5: File:Aircraft lavatory door lock latch with bilingual sign.jpg by Wiki.cullin (CC0) https://commons.wikimedia.org/wiki/File:Aircraft_lavatory_door_lock_latch_with_bilingual_sign.jpg
+cta: File:WingOverLittlePuffyClouds-Mar2013 (35035579590).jpg by formulanone from Huntsville, United States (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:WingOverLittlePuffyClouds-Mar2013_(35035579590).jpg

@@ -1,0 +1,7 @@
+hook: File:Airborne (F-OJAG) (11108928284).jpg by Spotting973 (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Airborne_(F-OJAG)_(11108928284).jpg
+n1: File:DHC-1 Compton Abbas (9383658883).jpg by Ian Kirk (CC BY 2.0) https://commons.wikimedia.org/wiki/File:DHC-1_Compton_Abbas_(9383658883).jpg
+n2: File:Robin DR400-140B Dauphin - engine2.jpg by Cjp24 (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Robin_DR400-140B_Dauphin_-_engine2.jpg
+n3: File:Extra 300 G-IIDI World Aerobatic Championships, Silverstone, 28AUG09 (3867763637).jpg by Jerry Gunner (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Extra_300_G-IIDI_World_Aerobatic_Championships,_Silverstone,_28AUG09_(3867763637).jpg
+n4: File:Compass (3666422204).jpg by Paul Hudson (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Compass_(3666422204).jpg
+n5: File:AircamAtLeadville.jpg by Edibobb (CC BY 3.0) https://commons.wikimedia.org/wiki/File:AircamAtLeadville.jpg
+cta: File:Cessna172-CatalinaTakeOff.JPG by Karl Dickman (Public domain) https://commons.wikimedia.org/wiki/File:Cessna172-CatalinaTakeOff.JPG

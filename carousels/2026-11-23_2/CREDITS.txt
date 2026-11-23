@@ -1,0 +1,7 @@
+hook: File:Cockpit Piper PA-28 US Navy 091109-N-9643K-696.jpg by Chief Joe Kane, U.S. Navy (Public domain) https://commons.wikimedia.org/wiki/File:Cockpit_Piper_PA-28_US_Navy_091109-N-9643K-696.jpg
+n1: File:Astronaut McDivitt - Blood Pressure Check - Preflight Examination - Merritt Island, FL (S65-19524).jpg by NASA (Public domain) https://commons.wikimedia.org/wiki/File:Astronaut_McDivitt_-_Blood_Pressure_Check_-_Preflight_Examination_-_Merritt_Island,_FL_(S65-19524).jpg
+n2: File:Pilot logbook (pages).jpg by Basil Newburn (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Pilot_logbook_(pages).jpg
+n3: File:Diamond DA-42 Twin Star, Embry-Riddle Aeronautical University AN1413056.jpg by Dmitry Avdeev (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Diamond_DA-42_Twin_Star,_Embry-Riddle_Aeronautical_University_AN1413056.jpg
+n4: File:Cessna 152 Aerobat - DPLA - c5a4646d04d1faf0e7da4dbfbb7bcc69 (page 2).jpg by Smithsonian Institution (CC0) https://commons.wikimedia.org/wiki/File:Cessna_152_Aerobat_-_DPLA_-_c5a4646d04d1faf0e7da4dbfbb7bcc69_(page_2).jpg
+n5: File:Trainee RAF Pilots in Grob Light Aircraft MOD 45137473.jpg by RAF/MoD (OGL v1.0) https://commons.wikimedia.org/wiki/File:Trainee_RAF_Pilots_in_Grob_Light_Aircraft_MOD_45137473.jpg
+cta: File:Iraqi Air Force 080713-F-5422F-195.jpg by Airman 1st Class Randi Flaugh, U.S. Air Force (Public domain) https://commons.wikimedia.org/wiki/File:Iraqi_Air_Force_080713-F-5422F-195.jpg

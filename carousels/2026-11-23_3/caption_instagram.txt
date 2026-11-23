@@ -1,0 +1,11 @@
+5 checkride questions that sound easy. Examiners love them because students rush the answer.
+
+1. Why does the plane want to turn left? Four forces, not one: torque, spiraling slipstream, P-factor and gyroscopic precession. Right rudder fixes them (Pilot's Handbook of Aeronautical Knowledge, ch. 5).
+2. Can carb ice form on a hot day? Yes. Fuel vaporizing in the carburetor chills the air. Ice is most likely below 70°F (21°C) in humid air, but it can form at up to 100°F (38°C) (Pilot's Handbook, ch. 7).
+3. 60° bank: what happens to stall speed? A level 60° turn pulls 2 G, and stall speed grows with the square root of load factor, so it rises about 41%. A 50-knot stall becomes about 71 knots (Pilot's Handbook, ch. 5).
+4. Turning off north, what does the compass do? In the Northern Hemisphere it lags on turns from north and leads on turns from south. Remember UNOS: undershoot north, overshoot south (Pilot's Handbook, ch. 8).
+5. Hot day, high airport, what changes? High density altitude means thin air: less engine power, less thrust and less lift. Expect a longer takeoff roll and a weaker climb (Pilot's Handbook, ch. 11).
+
+Would you get all 5 on your checkride? Search Boplo Flight on the App Store.
+
+#studentpilot #pilot #pilottraining #avgeek #flightschool #checkride #privatepilot #aviation

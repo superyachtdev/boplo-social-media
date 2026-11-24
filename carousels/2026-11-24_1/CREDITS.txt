@@ -1,0 +1,7 @@
+hook: File:Airbus A380 Singapore Airlines.JPG by Saschaporsche (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Airbus_A380_Singapore_Airlines.JPG
+n1: File:Contrail over South Australia.jpg by Hallo3800 (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Contrail_over_South_Australia.jpg
+n2: File:34,000 feet over the Pacific February 2026.jpg by 4300streetcar (CC BY 4.0) https://commons.wikimedia.org/wiki/File:34,000_feet_over_the_Pacific_February_2026.jpg
+n3: File:Biman Bangladesh Airlines Boeing 787 Dreamliner 2.jpg by Jubair Bin Iqbal (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg
+n4: File:Mont-Blanc and airliner.jpg by Tangopaso (Public domain) https://commons.wikimedia.org/wiki/File:Mont-Blanc_and_airliner.jpg
+n5: File:JFK Control Tower.jpg by Pat Guiney (CC BY 2.0) https://commons.wikimedia.org/wiki/File:JFK_Control_Tower.jpg
+cta: File:Boeing 747 landing at Barcelona in a golden sunset.jpg by Jordi Cucurull (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Boeing_747_landing_at_Barcelona_in_a_golden_sunset.jpg

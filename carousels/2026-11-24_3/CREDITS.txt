@@ -1,0 +1,7 @@
+hook: File:Piper PA-38 Tomahawk Ajdovščina (3446263364).jpg by Stan Dalone (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Piper_PA-38_Tomahawk_Ajdov%C5%A1%C4%8Dina_(3446263364).jpg
+n1: File:Cockpit V5-MAG Gobabis.jpg by Olga Ernst & Hp.Baumeler (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Cockpit_V5-MAG_Gobabis.jpg
+n2: File:Air traffic controller schiphol tower.jpg by Mark Brouwer (CC BY-SA 2.5) https://commons.wikimedia.org/wiki/File:Air_traffic_controller_schiphol_tower.jpg
+n3: File:Air Traffic Controllers (7601057).jpg by A1C Imani West, U.S. Air Force (Public domain) https://commons.wikimedia.org/wiki/File:Air_Traffic_Controllers_(7601057).jpg
+n4: File:Runway Leasing Inc Number 1 Airport aerial photo.jpg by Cf68916 (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Runway_Leasing_Inc_Number_1_Airport_aerial_photo.jpg
+n5: File:Cessna 152 N49990 (2709772218).jpg by Eddie Maloney (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Cessna_152_N49990_(2709772218).jpg
+cta: File:Mainland Air Cessna 152 ZK-FCQ Dunedin, NZ.jpg by Benchill (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Mainland_Air_Cessna_152_ZK-FCQ_Dunedin,_NZ.jpg

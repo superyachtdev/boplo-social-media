@@ -1,0 +1,7 @@
+hook: File:Mumbai Airport Takeoff Queue.jpg by Wireman27 (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Mumbai_Airport_Takeoff_Queue.jpg
+n1: File:Izhma emergency slide.jpg by МЧС России (EMERCOM of Russia) (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Izhma_emergency_slide.jpg
+n2: File:Baggage loading on a jet aircraft.jpg by Ptrump16 (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Baggage_loading_on_a_jet_aircraft.jpg
+n3: File:2008 aircraft deicing at gate.jpg by Nicholas Hartmann (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:2008_aircraft_deicing_at_gate.jpg
+n4: File:Sukhoi SuperJet 100 (5114478300).jpg by SuperJet International (CC BY-SA 2.0) https://commons.wikimedia.org/wiki/File:Sukhoi_SuperJet_100_(5114478300).jpg
+n5: File:Airliners Kuala Lumpur 2026 (09).jpg by Bahnfrend (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Airliners_Kuala_Lumpur_2026_(09).jpg
+cta: File:Scandinavian airliners Oslo Gardermoen 2024 (01).jpg by Bahnfrend (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Scandinavian_airliners_Oslo_Gardermoen_2024_(01).jpg

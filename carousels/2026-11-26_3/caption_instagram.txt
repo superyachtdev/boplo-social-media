@@ -1,0 +1,11 @@
+5 questions about landing in the rain. A FedEx MD-11 overran a wet runway at Miami on Thanksgiving eve (no injuries, cause under investigation). Could you answer these on your checkride?
+
+1. What is hydroplaning? A thin sheet of water lifts the tires off the runway, so braking and steering drop to almost nothing (FAA PHAK ch. 11).
+2. When can it start? At about 9 x the square root of the main tire pressure, in knots. 36 psi tires can hydroplane from 54 knots, and it can continue well below that (PHAK fig. 11-18).
+3. Stand on the brakes? No. Small trainers lack anti-lock, so hard braking locks the wheels. Land into the wind, use aerodynamic braking, then brake gently (PHAK ch. 11).
+4. Floating past your touchdown spot? Go around, early. It's a normal maneuver, not a failure (Airplane Flying Handbook).
+5. How slippery is it? Check the runway condition codes: each third of the runway is rated 6 (dry) to 1 (poor), like 5/5/3. A nil braking report closes the runway (AIM 4-3-9).
+
+Would you have stopped in time? Prepping for your checkride? Search Boplo Flight on the App Store.
+
+#studentpilot #pilot #pilottraining #avgeek #flightschool #checkride #aviation #flying

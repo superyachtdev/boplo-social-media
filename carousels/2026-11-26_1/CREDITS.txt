@@ -1,0 +1,7 @@
+hook: File:A wing tip of an airplane (40118125441).jpg by U.S. Department of Agriculture (Public domain) https://commons.wikimedia.org/wiki/File:A_wing_tip_of_an_airplane_(40118125441).jpg
+n1: File:Airplane wing sky and clouds.jpg by Tobias1984 (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Airplane_wing_sky_and_clouds.jpg
+n2: File:Pulse oximeter on a finger.jpg by Jakub T. Jankiewicz (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Pulse_oximeter_on_a_finger.jpg
+n3: File:Campbell's tomato juice on a flight of Icelandair.JPG by Claus Ableiter (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Campbell%27s_tomato_juice_on_a_flight_of_Icelandair.JPG
+n4: File:Cabin of B 737 2015-06 616.jpg by Chris Light (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Cabin_of_B_737_2015-06_616.jpg
+n5: File:Embraer 190 - Wing and winglet at sunset.jpg by PierreSelim (CC BY-SA 3.0) https://commons.wikimedia.org/wiki/File:Embraer_190_-_Wing_and_winglet_at_sunset.jpg
+cta: File:Icelandair wing over Iceland.jpg by APK (CC BY-SA 4.0) https://commons.wikimedia.org/wiki/File:Icelandair_wing_over_Iceland.jpg
